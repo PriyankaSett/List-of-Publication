@@ -19,18 +19,18 @@ Int.J.Mod.Phys.E24, no.06, 1550046 (2015); arXiv:1505.05258 [hep-ph].
 PHENIX Collaboration), J.Phys.Conf.Ser 612, no.1, 012063 (2015).
 
 
-6. Measurement of $$K_{S}^{0}$$ and $$K^{\*0}$$ in p+p, d+Au and Cu+Cu collisions at $$\sqrt{s_{NN}}$$ = 200 GeV, A. Adare
+6. Measurement of $K_{S}^{0}$ and $K^{\*0}$ in p+p, d+Au and Cu+Cu collisions at $\sqrt{s_{NN}}$ = 200 GeV, A. Adare
 et.al (PHENIX Collaboration), Phys. Rev. C90, 054905 (2014); arXiv:1405.3628[hep-ex].
 PHENIX Publication Group : Priyanka Sett (chair), Prashant Shukla, Dipak Kumar Mishra,
 Rajnikant Choudhury, Deepali Sharma, Alexander Milov, Itzkak Tserruya, Victor Ryabov, Dmitry
 Ivanischev, Dmitry Kotov and Yuri Riabov.
 
 
-7. Pion p T spectra in p+p collisions as a function of $$\sqrt{s}$$ and event multiplicity, P. Sett and P. Shukla,
+7. Pion p T spectra in p+p collisions as a function of $\sqrt{s}$ and event multiplicity, P. Sett and P. Shukla,
 Adv. High Energy Phys.2014, 896037 (2014); arXiv:1408.1034[hep-ph].
 
 
-8. System size dependence of hadron $$p_T$$ spectra in p+p and Au+Au collisions at $$\sqrt{s_{NN}}$$ = 200 GeV, P.
+8. System size dependence of hadron $$p_T$$ spectra in p+p and Au+Au collisions at $\sqrt{s_{NN}}$ = 200 GeV, P.
 K. Khandai, P. Sett, P. Shukla and V. Singh, J. Phys. G41, 025105 (2014); arXiv:1310.4022[hep-
 ex].
 
