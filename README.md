@@ -30,7 +30,7 @@ Ivanischev, Dmitry Kotov and Yuri Riabov.
 Adv. High Energy Phys.2014, 896037 (2014); arXiv:1408.1034[hep-ph].
 
 
-8. System size dependence of hadron $$p_T$$ spectra in p+p and Au+Au collisions at $\sqrt{s_{NN}}$ = 200 GeV, P.
+8. System size dependence of hadron $p_T$ spectra in p+p and Au+Au collisions at $\sqrt{s_{NN}}$ = 200 GeV, P.
 K. Khandai, P. Sett, P. Shukla and V. Singh, J. Phys. G41, 025105 (2014); arXiv:1310.4022[hep-
 ex].
 
