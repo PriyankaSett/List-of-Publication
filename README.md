@@ -1,8 +1,8 @@
 # List-of-Publication
 
-1. [Comprehending particle production at RHIC and LHC energies using global measurements, Sad-
+1. Comprehending particle production at RHIC and LHC energies using global measurements, Sad-
 hana Dash, Basanta K. Nandi, Ranjit Nayak, Ashutosh Kumar Pandey, Priyanka Sett,
-Mod.Phys.Lett. A32, no.2, 1750060 (2017); arXiv:1609.08609 [nucl-th]] 
+Mod.Phys.Lett. A32, no.2, 1750060 (2017); arXiv:1609.08609 [nucl-th]
 
 
 2. Multiplicity distributions for e + e − collisions using Weibull distribution, Sadhana Dash, Basanta
